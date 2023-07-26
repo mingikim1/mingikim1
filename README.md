@@ -1,4 +1,4 @@
-### Hello.
+### Hello!
 * My name is mingi Kim.
 * I'm undergraduate student Mathematics and Computer science at Chungnam National University.
 
