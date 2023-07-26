@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello.
+  My name is mingi Kim. I am an undergraduate student in the Department of Mathematics and Computer science at Chungnam National University.
 
 <!--
 **mingikim1/mingikim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
