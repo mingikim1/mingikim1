@@ -1,6 +1,8 @@
 ### Hello!
 * My name is mingi Kim.
 * I'm undergraduate student Mathematics and Computer science at Chungnam National University.
+* My blog : https://math-love.tistory.com/
+* I upload my studies and daily life on my blog!
 
 <!--
 **mingikim1/mingikim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
